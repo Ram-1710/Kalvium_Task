@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "math.js": "^1.1.46",
+    "mathjs": "^11.10.0"
+  }
+}
